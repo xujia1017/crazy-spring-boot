@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings
+.checkstyle
+*LocalTest.java
+bin
+.DS_Store
+/target/
+/target-eclipse/
+*.iml
+/.idea
+log.txt
+MANIFEST.MF
+/LOG_PATH_IS_UNDEFINED/
+target/*
+.flattened-pom.xml
